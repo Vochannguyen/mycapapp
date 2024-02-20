@@ -4,3 +4,8 @@ openai
 tiktoken
 python-dotenv
 pinecone-client
+scipy
+plotly
+umap-learn==0.5.3
+scikit-learn
+setuptools
