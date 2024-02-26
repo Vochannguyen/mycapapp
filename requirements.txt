@@ -4,12 +4,10 @@ openai
 tiktoken
 python-dotenv
 pinecone-client
-<<<<<<< HEAD
 scipy
 plotly
 umap-learn==0.5.3
 scikit-learn
 setuptools
-=======
 langchain_experimental
->>>>>>> f6929801537d0b08e36c1d765e5bc2bb52c377f5
+seaborn

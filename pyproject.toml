@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "newpoetry"
+version = "0.1.0"
+description = ""
+authors = ["Vochannguyen <110003333+Vochannguyen@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "*"  # Use the latest version
+streamlit = "*"
+openai = "*"
+tiktoken = "*"
+python-dotenv = "*"
+pinecone-client = "*"
+scipy = "*"
+plotly = "*"
+umap-learn = "0.5.3"  # Specify the exact version
+scikit-learn = "*"
+setuptools = "*"
+langchain_experimental = "*"
+jupyter = "^1.0.0"
+ipykernel = "^6.29.2"
+seaborn = "^0.13.2"
+matplotlib = "^3.8.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
